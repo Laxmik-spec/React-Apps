@@ -1,0 +1,19 @@
+.featured{
+     width: 100%;
+     background-color: #060607;
+     padding: 15px 2%;
+}
+
+.sectiontitle{
+    color: white;
+    padding: 10px 0;
+}
+
+.shows{
+     width: 100%;
+     /* background-color: red; */
+     height: 400px;
+     display: flex;
+     column-gap: 15px;
+}
+
